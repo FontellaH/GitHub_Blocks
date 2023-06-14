@@ -1,0 +1,61 @@
+h3{
+    text-align: center;
+    font-size: 4vw;
+   
+}
+
+.Container{
+    width:1000px;
+    height: 930px;
+    background-color: fuchsia; 
+    border: 10px solid black;
+}
+
+
+#box1{
+    background-color: black;
+    border: 5px solid fuchsia;
+    width: 900px;
+    height: 225px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 50px;
+}
+
+#box2 {
+    background-color: black;
+    border: 5px solid fuchsia;
+    width: 900px;
+    height: 225px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 50px;
+}
+
+#box3 {
+    background-color: black;
+    border: 5px solid fuchsia;
+    width: 900px;
+    height: 225px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 50px;
+}
+
+img {
+    width:233.3px;
+    height: 195px;
+    border: solid fuchsia 3.5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+h4{
+    text-align: center;
+    font-size: 16pt;
+
+}
